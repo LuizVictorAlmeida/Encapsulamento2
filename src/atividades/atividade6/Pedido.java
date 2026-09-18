@@ -1,4 +1,4 @@
-package atividade6;
+package atividades.atividade6;
 
 public class Pedido {
     private int numeroPedido;

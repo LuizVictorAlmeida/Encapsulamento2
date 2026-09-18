@@ -1,4 +1,4 @@
-package atividade9;
+package atividades.atividade9;
 
 public class Evento {
     private String nomeEvento;

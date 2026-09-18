@@ -1,4 +1,4 @@
-package atividade10;
+package atividades.atividade10;
 
 public class Equipamento {
     private String patrimonio;

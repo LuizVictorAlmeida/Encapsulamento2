@@ -1,4 +1,4 @@
-package atividade7;
+package atividades.atividade7;
 
 public class Reserva {
     private String hospede;

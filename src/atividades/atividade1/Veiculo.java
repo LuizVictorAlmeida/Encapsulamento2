@@ -1,4 +1,4 @@
-package atividade1;
+package atividades.atividade1;
 
 import java.time.Year;
 

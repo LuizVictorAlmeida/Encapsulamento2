@@ -1,4 +1,4 @@
-package atividade2;
+package atividades.atividade2;
 
 public class Funcionario {
     private String nome;
