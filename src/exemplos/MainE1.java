@@ -7,7 +7,7 @@ class ContaBancaria {
     // 1. Atributos PRIVADOS (Protegidos contra alteração direta externa)
     private String titular;
     private double saldo;
-    // 2. Método Construtor: Inicializa o objeto com validação inicial
+    // 2. Metodo Construtor: Inicializa o objeto com validação inicial
     public ContaBancaria(String titular, double saldoInicial) {
         this.titular = titular;
 

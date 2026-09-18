@@ -43,7 +43,7 @@ class Aluno {
             System.out.println("Erro: A nota deve estar entre 0 e 10.");
         }
     }
-    // Método para exibir dados do aluno
+    // Metodo para exibir dados do aluno
     public void exibirInformacoes() {
         System.out.println("Aluno: " + nome + " | Idade: " + idade + " | Nota: " + notaFinal);
     }
